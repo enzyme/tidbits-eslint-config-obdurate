@@ -1,0 +1,31 @@
+{
+  "name": "@tidbits/eslint-config-obdurate",
+  "version": "1.0.0",
+  "description": "A stubborn, hardmode, lean-and-mean-js eslint config.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enzyme/tidbits-eslint-config-obdurate.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Tristan Strathearn <tristan@pixls.com.au>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enzyme/tidbits-eslint-config-obdurate/issues"
+  },
+  "homepage": "https://github.com/enzyme/tidbits-eslint-config-obdurate#readme",
+  "dependencies": {
+    "eslint": "^5.1.0",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-import-resolver-node": "^0.3.2",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.1.0",
+    "eslint-plugin-react": "^7.10.0"
+  }
+}
