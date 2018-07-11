@@ -4,7 +4,7 @@ A stubborn, hardmode, lean-and-mean-js eslint config.
 Extends: **AirBnb** and adds:
 
 ```js
-rules': {
+'rules': {
   'no-multiple-empty-lines': ['error', { 'max': 1, 'maxBOF': 0, 'maxEOF': 1 }],
   'no-magic-numbers': ['error', { 'enforceConst': true }],
   'array-bracket-newline': ['error', { 'multiline': true, 'minItems': 2 }],
