@@ -1,6 +1,6 @@
 {
   "name": "@tidbits/eslint-config-obdurate",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "A stubborn, hardmode, lean-and-mean-js eslint config.",
   "main": "index.js",
   "scripts": {
