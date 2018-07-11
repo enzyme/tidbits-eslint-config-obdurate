@@ -12,7 +12,6 @@ module.exports = {
   'extends': 'airbnb',
   'rules': {
     'no-multiple-empty-lines': ['error', { 'max': 1, 'maxBOF': 0, 'maxEOF': 1 }],
-    'no-magic-numbers': ['error', { 'enforceConst': true }],
     'array-bracket-newline': ['error', { 'multiline': true, 'minItems': 2 }],
     'array-element-newline': ['error', { 'multiline': true, 'minItems': 2 }],
     'camelcase': ['error'],
